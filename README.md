@@ -1,10 +1,14 @@
 Create this file in your repository:
 .opencode/command/commit.md
 
+Commit your Changes
+$ git add -all
 Then run:
-opencode
+$ opencode
 
 Inside OpenCode, invoke:
 /commit
 
-This gives you a reusable workflow with approval before committing.
+Push your changes to GitHub
+$ git push origin main
+
