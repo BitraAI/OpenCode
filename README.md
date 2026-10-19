@@ -1,7 +1,7 @@
-Create this file in your repository:
+#### Create this file in the root directory of your project:
 .opencode/command/commit.md
 
-Commit your Changes
+#### Commit your Changes
 $ git add -all
 Then run:
 $ opencode
@@ -9,6 +9,6 @@ $ opencode
 Inside OpenCode, invoke:
 /commit
 
-Push your changes to GitHub
+#### Push your changes to GitHub
 $ git push origin main
 
