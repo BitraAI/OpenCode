@@ -1,4 +1,4 @@
-#### Create this file in the root directory of your project:
+#### Create this file
 .opencode/command/commit.md
 
 #### Commit your Changes
