@@ -1,14 +1,12 @@
 #### Create this file
 .opencode/command/commit.md
 
-#### Commit your Changes
-$ git add -all
-Then run:
 $ opencode
-
 Inside OpenCode, invoke:
+#### Stage all changes in the current directory
+/git add -all
+#### Commit the staged changes
 /git commit
-
-#### Push your changes to GitHub
-$ git push origin main
+#### Push the changes to GitHub
+/git push origin main
 
