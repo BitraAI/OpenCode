@@ -7,7 +7,7 @@ Then run:
 $ opencode
 
 Inside OpenCode, invoke:
-/commit
+/git commit
 
 #### Push your changes to GitHub
 $ git push origin main
